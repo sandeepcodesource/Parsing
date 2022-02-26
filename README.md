@@ -3,7 +3,7 @@ HOW TO RUN PROJECT
 
 STEPS :
 
-1. clone the project which is given into git reposiroty.
+1. clone the project which is given into git reposiroty.(command :-  git clone --single-branch --branch code1 https://github.com/milindpathare01/Parsing.git)
 2. Import project into "JAVA-eclipse IDE" or any standard platform.
 3. How to Run Project.
 4. STEPS :
